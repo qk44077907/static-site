@@ -172,7 +172,11 @@ h4 {
 }
 .details .year {
   margin-left: 10px;
-  width: 100px;
+  margin-right: 7px;
+}
+.year-line {
+  display: flex;
+  align-items: center;
 }
 .details .degree {
   margin-left: 40px;
